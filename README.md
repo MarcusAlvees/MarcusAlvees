@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcusAlvees&color=blue" alt="Profile views" /> </p>
 
--Jûnior Game developer
+-Jûnior Game Developer
 
 -I'm currently working on a game
 
