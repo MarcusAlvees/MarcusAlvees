@@ -6,6 +6,8 @@
 
 -I'm currently working on a game
 
+<p align = "left"> <img src="https://github-readme-stats.vercel.app/api?username=MarcusAlvees&bg_color=000000&title_color=7653e0&border_radius=10&text_color=8f8f8f&border_color=7653e0&show_icons=1&icon_color=f5b95f" alt="Github Stats" /> </p>
+
 -----
 
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
