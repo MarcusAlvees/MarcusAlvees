@@ -11,10 +11,10 @@
 <img align="center" alt="d3vunity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">&nbsp;
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/marcusalvees">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcusAlvees&bg_color=000000&title_color=7653e0&border_radius=10&text_color=8f8f8f&border_color=7653e0&show_icons=1&icon_color=f5b95f" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/MarcusAlvees/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAlvees&layout=compact&langs_count=5&bg_color=000000&title_color=7653e0&border_radius=10&text_color=8f8f8f&border_color=7653e0&show_icons=1" />
 </a>
 
