@@ -11,13 +11,13 @@
 <img align="center" alt="d3vunity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">&nbsp;
 
 
-<a href="https://github.com/marcusalvees">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcusAlvees&bg_color=000000&title_color=7653e0&border_radius=10&text_color=8f8f8f&border_color=7653e0&show_icons=1&icon_color=f5b95f" />
-</a>
-<a href="https://github.com/MarcusAlvees/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAlvees&layout=compact&langs_count=5&bg_color=000000&title_color=7653e0&border_radius=10&text_color=8f8f8f&border_color=7653e0&show_icons=1" />
-</a>
 
+
+<div align="center">
+  <a href="https://github.com/marcusalvees">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusalvees&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusalvees&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 -----
 <a href="https://linkedin.com/in/marcalvees"> <img src="https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d"> </a>
