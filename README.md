@@ -11,14 +11,20 @@
   <a href="https://github.com/marcusalvees">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusalvees&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusalvees&layout=compact&langs_count=7&theme=midnight-purple"/>
+  </a>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <a href="https://github.com/marcusalvees">
   <img align="center" alt="d3v-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  </a>
+  <a href="https://youtu.be/lGFEqEFJ410"> 
   <img align="right" alt="d3v" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58921209/162637567-2f12a45e-d17d-4abb-bf2b-0f7804f057e8.gif">
+  </a>
 </div>
+
   
   ##
 
