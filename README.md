@@ -24,7 +24,6 @@
   <img align="right" alt="d3v" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58921209/162637567-2f12a45e-d17d-4abb-bf2b-0f7804f057e8.gif">
   </a>
 </div>
-
   
   ##
 
