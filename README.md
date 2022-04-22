@@ -21,7 +21,7 @@
   <img align="center" alt="d3v-unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   </a>
   <a href="https://youtu.be/lGFEqEFJ410"> 
-  <img align="right" alt="d3v" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/58921209/162637567-2f12a45e-d17d-4abb-bf2b-0f7804f057e8.gif">
+  <img align="right" alt="d3v" height="150" style="border-radius:5px;" src="https://user-images.githubusercontent.com/58921209/162637567-2f12a45e-d17d-4abb-bf2b-0f7804f057e8.gif">
   </a>
 </div>
   
