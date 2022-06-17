@@ -4,7 +4,7 @@
 
 -Jûnior Game Developer
 
--I'm currently working on a **2D game** and i'm probably finishing it at the final of this year or next year
+-I'm currently working on a **2D game** and i'm probably finishing it at the end of this year or next year
 
 
 <div align="center">
