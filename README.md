@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcusAlvees&color=blue" alt="Profile views" /> </p>
 
--Jûnior Game Developer
+-Jûnior Game Developer, you can check out my [itch.io](https://maarcs.itch.io) profile!
 
 -I'm currently working on a **2D game** and i'm probably finishing it at the end of this year or next year
 
