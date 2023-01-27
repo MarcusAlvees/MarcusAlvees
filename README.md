@@ -4,9 +4,6 @@
 
 -Jûnior Game Developer, you can check out my [itch.io](https://maarcs.itch.io) profile!
 
--I'm currently working on a **2D game** and i'm probably finishing it at the end of this year or next year
-
-
 <div align="center">
   <a href="https://github.com/marcusalvees">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcusalvees&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
