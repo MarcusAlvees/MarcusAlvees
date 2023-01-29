@@ -2,8 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcusAlvees&color=blue" alt="Profile views" /> </p>
 
--Jûnior Game Developer, you can check out my [itch.io](https://maarcs.itch.io) profile!
--I want to start a big project this year, probably a game.
+- Jûnior Game Developer, you can check out my [itch.io](https://maarcs.itch.io) profile!
+- Im currently learning c++ and sfml but i already have experience with c#, python and unity.
+
+- I want to start a big project this year, probably a game.
 
 <div align="center">
   <a href="https://github.com/marcusalvees">
