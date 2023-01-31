@@ -1,10 +1,11 @@
 <h1 align="left">Hi👋, I'm Marcus Vinícius</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcusAlvees&color=blue" alt="Profile views" /> </p>
+<h3 align="left">About me:</h1>
 
-- Jûnior Game Developer, you can check out my [itch.io](https://maarcs.itch.io) profile!
+- Hi i'm Marcus, i'm 17 years old and i'm from Brazil.
+
+- Im a Jûnior Game Developer, you can check out my [itch.io](https://maarcs.itch.io) profile!
 - Im currently learning c++ and sfml but i already have experience with c#, python and unity.
-
 - I want to start a big project this year, probably a game.
 
 <div align="center">
